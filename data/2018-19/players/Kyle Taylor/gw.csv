@@ -1,0 +1,14 @@
+assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,my_team,opp_team,my_team_strength,opp_team_strength
+0,0,0,0,0.0,600,255,0,0,0.0,0.0,2019-02-09T15:00:00Z,0,12,0,0,0,0,26,0,0,0,3,0.0,0,0,0,0,45,False,0,Bournemouth,Liverpool,2,5
+0,0,0,0,0.0,600,262,0,0,0.0,0.0,2019-02-23T15:00:00Z,0,20,0,0,0,0,27,0,77,1,1,0.0,0,31,53,22,45,True,0,Bournemouth,Wolves,3,3
+0,0,0,0,0.0,600,271,0,0,0.0,0.0,2019-02-27T19:45:00Z,0,1,0,0,0,0,28,0,95,1,5,0.0,0,25,42,17,45,False,0,Bournemouth,Arsenal,2,4
+0,0,0,0,0.0,600,281,0,0,0.0,0.0,2019-03-02T15:00:00Z,0,13,0,0,0,0,29,0,106,1,0,0.0,0,9,27,18,45,True,0,Bournemouth,Man City,3,4
+0,0,0,0,0.0,600,295,0,0,0.0,0.0,2019-03-09T15:00:00Z,0,10,0,0,0,0,30,0,128,2,0,0.0,0,11,38,27,45,False,0,Bournemouth,Huddersfield,2,2
+0,0,0,0,0.0,600,301,0,0,0.0,0.0,2019-03-16T15:00:00Z,0,15,0,0,0,0,31,0,277,2,2,0.0,0,31,45,14,45,True,0,Bournemouth,Newcastle,3,2
+0,0,0,0,0.0,600,317,0,0,0.0,0.0,2019-03-30T15:00:00Z,0,11,0,0,0,0,32,0,191,0,2,0.0,0,12,44,32,45,False,0,Bournemouth,Leicester,2,3
+0,0,0,0,0.0,600,321,0,0,0.0,0.0,2019-04-06T14:00:00Z,0,4,0,0,0,0,33,0,207,3,1,0.0,0,5,20,15,45,True,0,Bournemouth,Burnley,3,2
+0,0,0,0,0.0,600,331,0,0,0.0,0.0,2019-04-13T14:00:00Z,0,3,0,0,0,0,34,0,188,5,0,0.0,0,-13,15,28,45,False,0,Bournemouth,Brighton,2,2
+0,0,0,0,0.0,600,342,0,0,0.0,0.0,2019-04-20T14:00:00Z,0,9,0,0,0,0,35,0,191,1,0,0.0,0,-2,17,19,45,True,0,Bournemouth,Fulham,3,2
+0,0,0,0,0.0,600,358,0,0,0.0,0.0,2019-04-27T14:00:00Z,0,16,0,0,0,0,36,0,188,3,3,0.0,0,-4,10,14,45,False,0,Bournemouth,Southampton,2,2
+0,0,0,0,0.0,600,362,0,0,0.0,0.0,2019-05-04T11:30:00Z,0,17,0,0,0,0,37,0,202,0,1,0.0,0,6,11,5,45,True,0,Bournemouth,Spurs,3,4
+0,0,0,0,0.0,600,373,0,0,0.0,0.0,2019-05-12T14:00:00Z,0,7,0,0,0,0,38,0,217,3,5,0.0,0,6,28,22,45,False,0,Bournemouth,Crystal Palace,2,2

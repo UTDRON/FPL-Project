@@ -1,0 +1,14 @@
+assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,my_team,opp_team,my_team_strength,opp_team_strength
+0,0,0,0,0.0,598,254,0,0,0.0,0.0,2019-02-09T15:00:00Z,0,1,0,0,0,0,26,0,0,2,1,0.0,0,0,0,0,40,True,0,Huddersfield,Arsenal,2,4
+0,0,0,0,0.0,598,269,0,0,0.0,0.0,2019-02-23T15:00:00Z,0,15,0,0,0,0,27,0,553,0,2,0.0,0,242,306,64,40,False,0,Huddersfield,Newcastle,2,3
+0,0,0,0,0.0,598,274,0,0,0.0,0.0,2019-02-26T19:45:00Z,0,20,0,0,0,0,28,0,488,0,1,0.0,0,55,86,31,40,True,0,Huddersfield,Wolves,2,3
+0,0,0,0,0.0,598,282,0,0,0.0,0.0,2019-03-02T15:00:00Z,0,3,0,0,0,0,29,0,562,0,1,0.0,0,58,90,32,40,False,0,Huddersfield,Brighton,2,2
+0,0,0,0,0.0,598,295,0,0,0.0,0.0,2019-03-09T15:00:00Z,0,2,0,0,0,0,30,0,650,2,0,0.0,0,60,105,45,40,True,0,Huddersfield,Bournemouth,2,2
+0,0,0,0,0.0,598,309,0,0,0.0,0.0,2019-03-16T15:00:00Z,0,19,0,0,0,0,31,0,2016,3,4,0.0,0,116,169,53,40,False,0,Huddersfield,West Ham,2,3
+0,0,0,0,0.0,598,315,0,0,0.0,0.0,2019-03-30T15:00:00Z,0,7,0,0,0,0,32,0,1032,0,2,0.0,0,89,166,77,40,False,0,Huddersfield,Crystal Palace,2,2
+0,0,0,0,0.0,598,324,0,0,0.0,0.0,2019-04-06T14:00:00Z,0,11,0,0,0,0,33,0,997,4,1,0.0,0,13,61,48,40,True,0,Huddersfield,Leicester,2,3
+0,0,0,0,0.0,598,339,0,0,0.0,0.0,2019-04-13T11:30:00Z,0,17,0,0,0,0,34,0,965,0,4,0.0,0,16,61,45,40,False,0,Huddersfield,Spurs,2,4
+0,0,0,0,0.0,598,346,0,0,0.0,0.0,2019-04-20T14:00:00Z,0,18,0,0,0,0,35,0,1028,2,1,0.0,0,28,69,41,40,True,0,Huddersfield,Watford,2,3
+0,0,0,0,0.0,598,356,0,0,0.0,0.0,2019-04-26T19:00:00Z,0,12,0,0,0,0,36,0,1083,0,5,0.0,0,50,89,39,40,False,0,Huddersfield,Liverpool,2,5
+0,0,0,0,0.0,598,366,0,0,0.0,0.0,2019-05-05T13:00:00Z,0,14,0,0,0,0,37,0,1214,1,1,0.0,0,111,167,56,40,True,0,Huddersfield,Man Utd,2,4
+0,0,13,0,0.0,598,378,1,0,1.5,14.8,2019-05-12T14:00:00Z,90,16,0,0,0,0,38,2,1398,1,1,0.0,2,118,210,92,40,False,0,Huddersfield,Southampton,2,2

@@ -1,0 +1,8 @@
+assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,my_team,opp_team,my_team_strength,opp_team_strength,Position,Season
+0,0,0,0,0.0,660,177,0,0,0.0,0.0,2021-12-19T16:30:00Z,0,17,0,0,0,0,18,0,0,2,2,0.0,0,0,0,0,40,False,0,Liverpool,Spurs,4,4,1,2122
+0,0,0,0,0.0,660,197,0,0,0.0,0.0,2021-12-28T20:00:00Z,0,9,0,0,0,0,20,0,133,0,1,0.0,0,8,19,11,40,False,0,Liverpool,Leicester,4,3,1,2122
+0,0,0,0,0.0,660,203,0,0,0.0,0.0,2022-01-02T16:30:00Z,0,6,0,0,0,0,21,0,192,2,2,0.0,0,0,20,20,40,False,0,Liverpool,Chelsea,4,5,1,2122
+0,0,0,0,0.0,660,214,0,0,0.0,0.0,2022-01-16T14:00:00Z,0,3,0,0,0,0,22,0,339,0,3,0.0,0,4,30,26,40,True,0,Liverpool,Brentford,5,2,1,2122
+0,0,0,0,0.0,660,224,0,0,0.0,0.0,2022-01-23T14:00:00Z,0,7,0,0,0,0,23,0,372,3,1,0.0,0,8,28,20,40,False,0,Liverpool,Crystal Palace,4,2,1,2122
+0,0,0,0,0.0,660,237,0,0,0.0,0.0,2022-02-10T19:45:00Z,0,9,0,0,0,0,24,0,465,0,2,0.0,0,3,19,16,40,True,0,Liverpool,Leicester,5,3,1,2122
+0,0,0,0,0.0,660,242,0,0,0.0,0.0,2022-02-13T14:00:00Z,0,5,0,0,0,0,25,0,490,1,0,0.0,0,-3,14,17,40,False,0,Liverpool,Burnley,4,2,1,2122

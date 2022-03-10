@@ -1,0 +1,12 @@
+assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,my_team,opp_team,my_team_strength,opp_team_strength
+0,0,1,0,1.6,601,274,0,0,0.5,3.8,2019-02-26T19:45:00Z,45,20,0,0,0,0,28,0,0,0,1,0.0,1,0,0,0,40,True,0,Huddersfield,Wolves,2,3
+0,0,0,0,0.0,601,282,0,0,0.0,0.0,2019-03-02T15:00:00Z,0,3,0,0,0,0,29,0,97,0,1,0.0,0,80,93,13,40,False,0,Huddersfield,Brighton,2,2
+0,0,0,0,0.0,601,295,0,0,0.0,0.0,2019-03-09T15:00:00Z,0,2,0,0,0,0,30,0,99,2,0,0.0,0,0,19,19,40,True,0,Huddersfield,Bournemouth,2,2
+0,0,0,0,0.0,601,309,0,0,0.0,0.0,2019-03-16T15:00:00Z,0,19,0,0,0,0,31,0,428,3,4,0.0,0,18,38,20,40,False,0,Huddersfield,West Ham,2,3
+0,0,0,0,0.0,601,315,0,0,0.0,0.0,2019-03-30T15:00:00Z,0,7,0,0,0,0,32,0,153,0,2,0.0,0,18,53,35,40,False,0,Huddersfield,Crystal Palace,2,2
+0,0,0,0,0.0,601,324,0,0,0.0,0.0,2019-04-06T14:00:00Z,0,11,0,0,0,0,33,0,158,4,1,0.0,0,2,30,28,40,True,0,Huddersfield,Leicester,2,3
+0,0,0,0,0.0,601,339,0,0,0.0,0.0,2019-04-13T11:30:00Z,0,17,0,0,0,0,34,0,151,0,4,0.0,0,6,26,20,40,False,0,Huddersfield,Spurs,2,4
+0,0,0,0,0.0,601,346,0,0,0.0,0.0,2019-04-20T14:00:00Z,0,18,0,0,0,0,35,0,186,2,1,0.0,0,20,49,29,40,True,0,Huddersfield,Watford,2,3
+0,0,0,0,0.0,601,356,0,0,0.0,0.0,2019-04-26T19:00:00Z,0,12,0,0,0,0,36,0,215,0,5,0.0,0,33,45,12,40,False,0,Huddersfield,Liverpool,2,5
+0,0,0,0,0.0,601,366,0,0,0.0,0.0,2019-05-05T13:00:00Z,0,14,0,0,0,0,37,0,282,1,1,0.0,0,56,98,42,40,True,0,Huddersfield,Man Utd,2,4
+0,0,0,0,0.0,601,378,0,0,0.0,0.0,2019-05-12T14:00:00Z,0,16,0,0,0,0,38,0,380,1,1,0.0,0,72,111,39,40,False,0,Huddersfield,Southampton,2,2

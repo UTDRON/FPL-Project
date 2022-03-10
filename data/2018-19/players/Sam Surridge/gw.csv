@@ -1,0 +1,14 @@
+assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,my_team,opp_team,my_team_strength,opp_team_strength
+0,0,0,0,0.0,599,255,0,0,0.0,0.0,2019-02-09T15:00:00Z,0,12,0,0,0,0,26,0,0,0,3,0.0,0,0,0,0,45,False,0,Bournemouth,Liverpool,2,5
+0,0,0,0,0.0,599,262,0,0,0.0,0.0,2019-02-23T15:00:00Z,0,20,0,0,0,0,27,0,3341,1,1,0.0,0,2251,3415,1164,45,True,0,Bournemouth,Wolves,3,3
+0,0,2,0,1.5,599,271,0,0,0.6,0.0,2019-02-27T19:45:00Z,10,1,0,0,0,0,28,0,4045,1,5,4.0,1,851,1555,704,45,False,0,Bournemouth,Arsenal,2,4
+0,0,0,0,0.0,599,281,0,0,0.0,0.0,2019-03-02T15:00:00Z,0,13,0,0,0,0,29,0,6015,1,0,0.0,0,1732,2845,1113,45,True,0,Bournemouth,Man City,3,4
+0,0,0,0,0.0,599,295,0,0,0.0,0.0,2019-03-09T15:00:00Z,0,10,0,0,0,0,30,0,6898,2,0,0.0,0,611,1913,1302,45,False,0,Bournemouth,Huddersfield,2,2
+0,0,0,0,0.0,599,301,0,0,0.0,0.0,2019-03-16T15:00:00Z,0,15,0,0,0,0,31,0,8049,2,2,0.0,0,-51,1001,1052,45,True,0,Bournemouth,Newcastle,3,2
+0,0,0,0,0.0,599,317,0,0,0.0,0.0,2019-03-30T15:00:00Z,0,11,0,0,0,0,32,0,7312,0,2,0.0,0,57,933,876,45,False,0,Bournemouth,Leicester,2,3
+0,0,0,0,0.0,599,321,0,0,0.0,0.0,2019-04-06T14:00:00Z,0,4,0,0,0,0,33,0,7397,3,1,0.0,0,-26,524,550,45,True,0,Bournemouth,Burnley,3,2
+0,0,0,0,0.0,599,331,0,0,0.0,0.0,2019-04-13T14:00:00Z,0,3,0,0,0,0,34,0,7280,5,0,0.0,0,-92,394,486,45,False,0,Bournemouth,Brighton,2,2
+0,0,0,0,0.0,599,342,0,0,0.0,0.0,2019-04-20T14:00:00Z,0,9,0,0,0,0,35,0,7322,1,0,0.0,0,-71,531,602,45,True,0,Bournemouth,Fulham,3,2
+0,0,0,0,0.0,599,358,0,0,0.0,0.0,2019-04-27T14:00:00Z,0,16,0,0,0,0,36,0,7311,3,3,0.0,0,-80,255,335,45,False,0,Bournemouth,Southampton,2,2
+0,0,0,0,0.0,599,362,0,0,0.0,0.0,2019-05-04T11:30:00Z,0,17,0,0,0,0,37,0,7385,0,1,0.0,0,5,343,338,45,True,0,Bournemouth,Spurs,3,4
+0,0,1,0,10.3,599,373,0,0,3.4,5.0,2019-05-12T14:00:00Z,1,7,0,0,0,0,38,0,7361,3,5,19.0,1,-84,298,382,45,False,0,Bournemouth,Crystal Palace,2,2

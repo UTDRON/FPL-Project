@@ -1,0 +1,10 @@
+assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,my_team,opp_team,my_team_strength,opp_team_strength
+0,0,3,0,0.0,607,295,0,0,0.0,0.0,2019-03-09T15:00:00Z,14,2,0,0,0,0,30,0,0,2,0,0.0,1,0,0,0,45,True,0,Huddersfield,Bournemouth,2,2
+0,0,-5,0,1.2,607,309,1,0,0.0,0.0,2019-03-16T15:00:00Z,54,19,0,0,0,0,31,0,71,3,4,0.0,1,16,21,5,45,False,0,Huddersfield,West Ham,2,3
+0,0,0,0,0.0,607,315,0,0,0.0,0.0,2019-03-30T15:00:00Z,0,7,0,0,0,0,32,0,25,0,2,0.0,0,4,14,10,45,False,0,Huddersfield,Crystal Palace,2,2
+0,0,0,0,0.0,607,324,0,0,0.0,0.0,2019-04-06T14:00:00Z,0,11,0,0,0,0,33,0,36,4,1,0.0,0,3,9,6,45,True,0,Huddersfield,Leicester,2,3
+0,0,0,0,0.0,607,339,0,0,0.0,0.0,2019-04-13T11:30:00Z,0,17,0,0,0,0,34,0,30,0,4,0.0,0,0,6,6,45,False,0,Huddersfield,Spurs,2,4
+0,0,0,0,0.0,607,346,0,0,0.0,0.0,2019-04-20T14:00:00Z,0,18,0,0,0,0,35,0,32,2,1,0.0,0,3,6,3,45,True,0,Huddersfield,Watford,2,3
+0,0,0,0,0.0,607,356,0,0,0.0,0.0,2019-04-26T19:00:00Z,0,12,0,0,0,0,36,0,39,0,5,0.0,0,5,9,4,45,False,0,Huddersfield,Liverpool,2,5
+0,0,0,0,0.0,607,366,0,0,0.0,0.0,2019-05-05T13:00:00Z,0,14,0,0,0,0,37,0,40,1,1,0.0,0,0,5,5,45,True,0,Huddersfield,Man Utd,2,4
+0,0,0,0,0.0,607,378,0,0,0.0,0.0,2019-05-12T14:00:00Z,0,16,0,0,0,0,38,0,54,1,1,0.0,0,12,15,3,45,False,0,Huddersfield,Southampton,2,2

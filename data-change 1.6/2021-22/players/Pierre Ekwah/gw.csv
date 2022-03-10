@@ -1,0 +1,7 @@
+assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,my_team,opp_team,my_team_strength,opp_team_strength,Position,Season
+0,0,0,0,0.0,682,204,0,0,0.0,0.0,2022-01-01T17:30:00Z,0,7,0,0,0,0,21,0,0,3,2,0.0,0,0,0,0,40,False,0,West Ham,Crystal Palace,3,2,1,2122
+0,0,0,0,0.0,682,179,0,0,0.0,0.0,2022-01-12T19:45:00Z,0,15,0,0,0,0,21,0,0,0,2,0.0,0,0,0,0,40,True,0,West Ham,Norwich,3,2,1,2122
+0,0,0,0,0.0,682,219,0,0,0.0,0.0,2022-01-16T14:00:00Z,0,10,0,0,0,0,22,0,182,3,2,0.0,0,32,38,6,40,True,0,West Ham,Leeds,3,2,1,2122
+0,0,0,0,0.0,682,228,0,0,0.0,0.0,2022-01-22T15:00:00Z,0,13,0,0,0,0,23,0,175,0,1,0.0,0,41,55,14,40,False,0,West Ham,Man Utd,3,4,1,2122
+0,0,0,0,0.0,682,235,0,0,0.0,0.0,2022-02-08T19:45:00Z,0,18,0,0,0,0,24,0,312,0,1,0.0,0,20,53,33,40,True,0,West Ham,Watford,3,2,1,2122
+0,0,0,0,0.0,682,245,0,0,0.0,0.0,2022-02-13T16:30:00Z,0,9,0,0,0,0,25,0,370,2,2,0.0,0,11,37,26,40,False,0,West Ham,Leicester,3,3,1,2122

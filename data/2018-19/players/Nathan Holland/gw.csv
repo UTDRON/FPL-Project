@@ -1,0 +1,6 @@
+assists,bonus,bps,clean_sheets,creativity,element,fixture,goals_conceded,goals_scored,ict_index,influence,kickoff_time,minutes,opponent_team,own_goals,penalties_missed,penalties_saved,red_cards,round,saves,selected,team_a_score,team_h_score,threat,total_points,transfers_balance,transfers_in,transfers_out,value,was_home,yellow_cards,my_team,opp_team,my_team_strength,opp_team_strength
+0,0,0,0,0.0,611,337,0,0,0.0,0.0,2019-04-13T16:30:00Z,0,14,0,0,0,0,34,0,0,1,2,0.0,0,0,0,0,40,False,0,West Ham,Man Utd,3,4
+0,0,0,0,0.0,611,349,0,0,0.0,0.0,2019-04-20T14:00:00Z,0,11,0,0,0,0,35,0,10447,2,2,0.0,0,6822,8175,1353,40,True,0,West Ham,Leicester,3,3
+0,0,0,0,0.0,611,359,0,0,0.0,0.0,2019-04-27T11:30:00Z,0,17,0,0,0,0,36,0,16169,1,0,0.0,0,6789,8453,1664,40,False,0,West Ham,Spurs,3,4
+0,0,0,0,0.0,611,369,0,0,0.0,0.0,2019-05-04T14:00:00Z,0,16,0,0,0,0,37,0,25397,0,3,0.0,0,7860,10132,2272,40,True,0,West Ham,Southampton,3,2
+0,0,0,0,0.0,611,380,0,0,0.0,0.0,2019-05-12T14:00:00Z,0,18,0,0,0,0,38,0,38702,4,1,0.0,0,10019,13754,3735,40,False,0,West Ham,Watford,3,3
